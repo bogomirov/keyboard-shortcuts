@@ -1,7 +1,7 @@
 Keyboard Shortcuts on your Desktop
 ==========================
 
-Get faster, more precise or find alternative ways to accomplish your tasks. Transform your professional and under-utilized desktop background into an asset, essential to your digital workflow.
+Get faster, more precise or find alternative ways to accomplish your tasks. Transform your professional and under-utilized desktop background into an asset, essential to your digital production workflow.
 
 #Table of contents
 
@@ -25,35 +25,39 @@ Get faster, more precise or find alternative ways to accomplish your tasks. Tran
 
 As a software, internet or digital media professional, your time is of essence. You need to be quick and precise in accomplishing your tasks. That is why in your daily operations you heavily rely on your keyboard.
 
-The software packages and environments you use nowadays are huge. Together with their extensions they provide you with multiple ways to accomplish almost anything in their field.
+The software packages and environments you use nowadays are huge. Together with their extensions they provide you with multiple ways to accomplish almost anything in your field.
 
 **The only problem is if you could remember how.**
 
-When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and as a result you under-perform.
+When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and as a result, you under-perform.
 
 **The images provided here intend to get you back in track, today.**
 
-Your desktop background is always in your field of vision, regardless whether you work, relax with your favorite game or your attention is away. As a plain image however, it serves a little purpose. What if you could utilize that huge empty area on your desktop better?
+Your desktop background is always in your field of vision, regardless whether you work, relax with your favorite game or your attention is away. As a plain image however, it serves a little purpose. What could you possibly do to utilize that huge empty area on your desktop better?
 
 The images provided here have been prepared with the intention to serve multiple purposes and balance on multiple criteria:
 
-* They are with reduced contrast, so you do not get distracted from your task.
+* Stay focused on your task
 
-* They are desaturated. In this way the applications you use, with their aggressive colors and widgets practically stand out, and you can immediately distinguish them from the background.
+  * The background images provided here are with reduced contrast and desaturated. They do not distract you from the applications you use, but still clearly separate from the rest.
 
-* Layout that efficiently uses the space of your multi-monitor setup, separating application and desktop environment keyboard shortcuts, icons and desktop widgets.
+  * The keyboard shortcuts unobtrusively "fly" in the middle. While crisp and distinguishable, they blend with the background without compromising it. They are also easily distinguishable from your applications without unnecessarily attracting your attention.
+  
+  * You get three layers with an illusion of depth - the applications you use in front, keyboard shortcuts in the middle and a panoramic, low detail, high-quality image in the far back. And you can visually switch between the three layers in a split-second.
 
-* The keyboard shortcuts, while being sharp and distinguishable on the one hand, do not distract you unnecessarily from your task, while on the other do not compromise the image in the back. They unobtrusively "fly" in the middle, so you can focus back and forth between applications, shortcuts and background in a split-second.
+* Stay organized and find quickly what you need
 
-* Emphasize on tasks and less on details. Contrary to most user manuals, the emphasis here is on tasks and not keyboard shortcuts. In this way you just need to locate in the hierarchical tree the task you seek to accomplish and not explicitly memorize keyboard shortcuts.
+  * Contrary to most user manuals, the emphasis here is on functions and not keyboard shortcuts. In this way you just need to locate in the hierarchical tree the task you seek to accomplish and not explicitly memorize keyboard shortcuts.
 
-* Implicitly learn on the go. Due to the hierarchical organization of the content, while visually scrolling on the tree seeking the task you need, you implicitly realize how to accomplish many other similar tasks.
+  * The layout attempts elegantly to fit as much information on it as possible, while separating application shortcuts, desktop environment shortcuts, icons and desktop widgets. In this way you can find your way through the overloaded with information desktop background quick.
 
-* Coherent design. It is practically impossible to fit all shortcuts of all applications on a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the desktop background relevant to the application you use at the moment.
+  * No need to spend precious time sifting through manuals or searching on the Internet anymore, in order to find how to invoke a specific function. All the information you need is in front of your eyes, all the time. Just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
 
-* Provide a calm environment. It is a common truth that when you are calm, you make less errors and perform better. That is why the images provided here have been chosen such that have relaxing effect.
+  * It is practically impossible to fit all shortcuts of all applications on a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the desktop background relevant to the application you use at the moment.
 
-* Quick access. Your desktop background is in your field of vision all the time. To find any detail you need, you just minimize the application you are using, which is a click away.
+* Implicitly learn on the go. Due to the organization of the content, while visually scrolling on the tree seeking the task you need, you implicitly realize how to accomplish many other similar tasks.
+
+* Attribute to a calm environment. The images provided here have been chosen such that to provide a relaxing effect, so you make less errors and perform better.
 
 In short, instead being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
