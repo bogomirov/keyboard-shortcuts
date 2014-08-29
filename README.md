@@ -55,7 +55,7 @@ The images provided here have been prepared with the intention to serve multiple
 
 * Quick access. Your desktop background is in your field of vision all the time. To find any detail you need, you just minimize the application you are using, which is a click away.
 
-In short, instead being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better.
+In short, instead being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
 ![Screenshot of an Windows 7 desktop with a background image containing the keyboard shortcuts of Eclipse PDT on left and Windows Active Desktop on right](screenshot.png)
 
@@ -168,9 +168,11 @@ Make the changes you need to the shortcuts content and layout towards your likin
 
 Export the so composited new image into the backgrounds directory
 
+Delete the intermediary .png image you exported from Photoshop
+
 Ensure the new background is available to your desktop theme
 
-Do not forget to store these changes you made into the local repository. In this way you can switch back and forth between modifications, protect against accidental file, recover errors, etc. Execute in Command Prompt:
+Do not forget to store these changes you made into the local repository. In this way you can switch back and forth between modifications, protect against accidental file loss, recover errors, etc. Execute in Command Prompt:
 
 1. Switch to the location of the keyboard shortcuts repo:
 
@@ -180,28 +182,28 @@ cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
 
 git commit -am "Created a background shortcut image for my other application"
 
-Now if you like to incorporate in your modifications updates coming from the original repository as described above, please keep in mind that the vector and raster content distributed with this project is in binary format. There is no version control system yet capable to assist you in merging changes in binary content from different sources. Therefore, when making updates you should keep both copies - your version of the binary file and the new version coming upstream, open them side-by-side in Photoshop or Illustrator, and attempt to transfer any modifications to your version manually.
+Now if you like to incorporate in your modifications updates coming from the original repository as described above, please keep in mind that the vector and raster content distributed with this project is in binary format. There is no version control system yet capable to assist you in merging changes in binary content from different sources. Therefore, when making updates you should keep both copies - your version of the binary file and the new version coming upstream. Open them side-by-side in Photoshop or Illustrator, and attempt to transfer any modifications to your version manually.
 
 For more information on binary merges, see the free on-line book about version control with Git: http://git-scm.com/book
 
 #Contribute
 
-Now, if you would like to share your modifications or new keyboard shortcuts background images with the world, you need to complete few steps in order to get it right. For more information you could review the relevant section of the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
+Now, if you would like to share your modifications or new keyboard shortcuts with the world, you need to complete few steps in order to get it right. For more information you could review the relevant section of the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
 
 
 #Uninstall
 
 Uninstalling the keyboard shortcut desktop images is pretty straightforward.
 
-1. Ensure the desktop images are not used in your desktop theme, or you use a different theme completely, navigation to:
+1. Ensure the desktop images are not used in your desktop theme, or you use a different theme completely by navigating to:
 
 Start -> Control Panel -> Personalization -> Desktop Background
 
-2. Remove the files associated with the keyboard shortcuts project. Execute in Command Prompt:
+2. Remove the keyboard shortcuts project from your hard drive. Execute in Command Prompt:
 
 rmdir /s %USERPROFILE%\AppData\Local\keyboard-shortcuts
 
-Please note that with this operation you will irrecoverably delete all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable you to keep a backup of your work, by sharing it in on-line, for example.
+Please note that with this operation you will irrecoverably delete all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable you to keep a backup of your work, e.g. by sharing it in on-line.
 
 #Legal notices
 
