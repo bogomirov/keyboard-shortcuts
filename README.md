@@ -1,25 +1,25 @@
 Keyboard Shortcuts on your Desktop
 ==========================
 
-Get faster, more precise or find alternative ways to accomplish your tasks. Transform your professional and under-utilized desktop background into an asset, essential to your digital workflow. Concentrate on accomplishing your tasks and move away from less relevant details.
+Get faster, more precise or find alternative ways to accomplish your tasks. Transform your professional and under-utilized desktop background into an asset, essential to your digital workflow.
 
 #Table of contents
 
 1. Introduction
 
-1. Prerequisites
+2. Prerequisites
 
-2. Install
+3. Install
 
-3. Upgrade
+4. Upgrade
 
-4. Modify
+5. Modify
 
-5. Contribute
+6. Contribute
 
-6. Uninstall
+7. Uninstall
 
-9. Legal notices
+8. Legal notices
 
 #Introduction
 
@@ -29,7 +29,7 @@ The software packages and environments you use nowadays are huge. Together with 
 
 **The only problem is if you could remember how.**
 
-When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So when you are under pressure, you stick to the basics, start making errors, and as a result you under-perform.
+When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and as a result you under-perform.
 
 **The images provided here intend to get you back in track, today.**
 
@@ -65,7 +65,7 @@ To create desktop backgrounds encompassing all display resolutions, multi-monito
 
 * Support horizontal, linear dual 1080p (3840x1080 px) monitor set-up
 
-* Contain keyboard shortcuts for the following applications and environments:
+* Provide keyboard shortcuts for the following applications and environments:
 
   * [Adebe After Effects](backgrounds/after-effects.png)
 
@@ -81,19 +81,127 @@ To create desktop backgrounds encompassing all display resolutions, multi-monito
 
   * [Microsoft Windows Active Desktop](backgrounds/active-desktop.png)
 
-You can use the provided templates to correct and supplement the shortcuts you need or include raster imagery that appeals to you best.
+You can use the provided templates to correct and supplement the shortcuts you need or include background imagery that appeals to you best.
 
 #Prerequisites
 
+In order to take maximum advantage of this project, you will need the following software installed:
+
+* Git core client, in order to manage your local copy of the project files:  http://git-scm.com/downloads
+
+* Adobe Illustrator and Adobe Photoshop, to use the provided templates
+
 #Install
+
+Grab a copy of the project repository and place it on an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
+
+git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
+%USERPROFILE%\AppData\Local\keyboard-shortcuts
+
+Enable any or all of the desktop backgrounds. On Windows 7 navigate:
+
+Start -> Control Panel -> Personalization -> Desktop Background
+
+and browse to the folder:
+
+%USERPROFILE%\AppData\Local\keyboard-shortcuts\backgrounds
+
+Select any or all of the desktop backgrounds and adjust the timing of their appearance to your liking.
+
+Press Save changes
+
+optionally, save the new desktop theme under a new name.
+
+From now on, you can switch desktop backgrounds regarding the application you use.
+
+Right-click on an empty area on your Desktop and choose "Next desktop background"
+ 
+If you are satisfied with what you get and never plan to make any modifications to the design of the backgrounds and any of the shortcuts, you can conserve some disk space by removing the templates. Execute in Command Prompt:
+
+1. Switch to the location of the keyboard shortcuts repo:
+
+cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+
+2. Remove the templates from your working tree and index:
+
+git rm -r templates
+
+3. Commit the changes to your local repo:
+
+git commit -am "Removed the templates dir, not planning to make any customizations"
+
+In this way the templates will never re-appear in the keyboard-shortcuts directory when you make upgrades (see below).
+
+This action is reversible whenever you choose to.
 
 #Upgrade
 
+Upgrade your local copy of the keyboard shortcuts repo with the last changes in the remote. On Windows you can accomplish that by executing the following two statements in Command Prompt:
+
+1. Switch to the folder where you have installed your local copy:
+
+cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+
+2. Pull the latest changes:
+
+git pull origin master
+
+Now you could verify that the backgrounds you like are still available to your theme by navigating to:
+
+Start -> Control Panel -> Personalization -> Desktop Background
+
 #Modify
+
+Modifying these desktop backgrounds is pretty straightforward.
+
+Use Adobe Photoshop templates to generate raster background images with the exact size of your desktop.
+
+Keep in mind that to achieve the effect intended by this project, the images should be of low contrast and desaturated. Whether they are bright or dark is to your liking but ensuring low contrast is important.
+
+Export the background image from Photoshop as an intermediary .png
+
+Open the Adobe Illustrator template
+
+Link the new intermediary .png image you exported from Photoshop externally
+
+Make the changes you need to the shortcuts content and layout towards your liking
+
+Export the so composited new image into the backgrounds directory
+
+Ensure the new background is available to your desktop theme
+
+Do not forget to store these changes you made into the local repository. In this way you can switch back and forth between modifications, protect against accidental file, recover errors, etc. Execute in Command Prompt:
+
+1. Switch to the location of the keyboard shortcuts repo:
+
+cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+
+2. Commit the changes, adding a relevant descriptive comment:
+
+git commit -am "Created a background shortcut image for my other application"
+
+Now if you like to incorporate in your modifications updates coming from the original repository as described above, please keep in mind that the vector and raster content distributed with this project is in binary format. There is no version control system yet capable to assist you in merging changes in binary content from different sources. Therefore, when making updates you should keep both copies - your version of the binary file and the new version coming upstream, open them side-by-side in Photoshop or Illustrator, and attempt to transfer any modifications to your version manually.
+
+For more information on binary merges, see the free on-line book about version control with Git: http://git-scm.com/book
 
 #Contribute
 
+Now, if you would like to share your modifications or new keyboard shortcuts background images with the world, you need to complete few steps in order to get it right. For more information you could review the relevant section of the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
+
+
 #Uninstall
+
+Uninstalling the keyboard shortcut desktop images is pretty straightforward.
+
+1. Ensure the desktop images are not used in your desktop theme, or you use a different theme completely, navigation to:
+
+Start -> Control Panel -> Personalization -> Desktop Background
+
+2. Remove the files associated with the keyboard shortcuts project. Execute in Command Prompt:
+
+rmdir /s %USERPROFILE%\AppData\Local\keyboard-shortcuts
+
+Please note that with this operation you will irrecoverably delete all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable you to keep a backup of your work, by sharing it in on-line, for example.
 
 #Legal notices
 
