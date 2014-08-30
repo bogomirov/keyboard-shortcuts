@@ -39,23 +39,23 @@ The images provided here have been prepared with the intention to serve multiple
 
 * Stay focused on your task
 
-  * The background images provided here are with reduced contrast and desaturated. They do not distract you from the applications you use, but still clearly separate from the rest.
+  * The background images provided here are with reduced contrast and desaturated, so they do not distract you from the applications you use, but still clearly separate from the rest. They also provide an illusion of depth. Low detail, smooth gradient. Used to cut-off everything above.
 
-  * The keyboard shortcuts unobtrusively "fly" in the middle. While crisp and distinguishable, they blend with the background without compromising it. They are also easily distinguishable from your applications without unnecessarily attracting your attention.
+  * The keyboard shortcuts are designed to unobtrusively "fly" in the middle. They are on a semi-transparent bases, so they blend with the background without compromising it. They are also crisp, but with reduced brightness, so they are easily distinguishable from your applications, but without unnecessarily attracting your attention.
   
-  * You get three layers with an illusion of depth - the applications you use in front, keyboard shortcuts in the middle and a panoramic, low detail, high-quality image in the far back. And you can visually switch between the three layers in a split-second.
+  * The applications you use, with their aggressive colors and widgets practically stand out over the shortcuts and the background, providing you with an illusion of depth. You can visually switch between the three layers in a split-second.
 
-* Stay organized and find quickly what you need
+* Stay organized and quickly find what you need
 
   * Contrary to most user manuals, the emphasis here is on functions and not keyboard shortcuts. In this way you just need to locate in the hierarchical tree the task you seek to accomplish and not explicitly memorize keyboard shortcuts.
 
   * The layout attempts elegantly to fit as much information on it as possible, while separating application shortcuts, desktop environment shortcuts, icons and desktop widgets. In this way you can find your way through the overloaded with information desktop background quick.
 
-  * No need to spend precious time sifting through manuals or searching on the Internet anymore, in order to find how to invoke a specific function. All the information you need is in front of your eyes, all the time. Just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
+  * No need to spend precious time sifting through manuals or searching on the Internet anymore, in order to find how to invoke a specific function. The information you need is in front of your eyes, all the time. Just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
 
   * It is practically impossible to fit all shortcuts of all applications on a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the desktop background relevant to the application you use at the moment.
 
-* Implicitly learn on the go. Due to the organization of the content, while visually scrolling on the tree seeking the task you need, you implicitly realize how to accomplish many other similar tasks.
+* Learn on the go. While visually scrolling on the tree seeking the functionality you need, or just having a part of the desktop in your in your peripheral vision, you implicitly realize how to accomplish many other similar tasks.
 
 * Attribute to a calm environment. The images provided here have been chosen such that to provide a relaxing effect, so you make less errors and perform better.
 
@@ -85,21 +85,21 @@ To create desktop backgrounds encompassing all display resolutions, multi-monito
 
   * [Microsoft Windows Active Desktop](backgrounds/active-desktop.png)
 
-You can use the provided templates to correct and supplement the shortcuts you need or include background imagery that appeals to you best.
+You can use the templates provided with the project to correct and supplement the shortcuts you need, or include background imagery that appeals to you best.
 
 #Prerequisites
 
-In order to take maximum advantage of this project, you will need the following software installed:
+To take maximum advantage of this project, you will need the following software installed:
 
 * Git core client, in order to manage your local copy of the project files:  http://git-scm.com/downloads
 
-* Adobe Illustrator and Adobe Photoshop, to use the provided templates
+* Adobe Illustrator and Adobe Photoshop, in order to use the provided templates
 
 #Install
 
-The installation of this project on your system includes the following steps:
+To install this project on your system, follow these steps:
 
-1. Grab a copy of the project repository and place it on an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
+1. Grab a copy of the project repository and place it in an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
 
 ```
 git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
@@ -112,7 +112,7 @@ git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
 Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
-and browse to the folder where are the background images provided by the project:
+and browse to the folder where are the background images, as installed above:
 
 ```
 C:\users\<your-user-name>\AppData\Local\keyboard-shortcuts\backgrounds
@@ -120,13 +120,13 @@ C:\users\<your-user-name>\AppData\Local\keyboard-shortcuts\backgrounds
 
 3. Select any or all of the desktop backgrounds and adjust the timing of their appearance to your liking.
 
-4. Press Save changes
+4. Press `Save changes`
 
 5. Optionally, save the desktop theme under a new name.
 
-From now on, you can switch desktop backgrounds regarding the application you use. On Windows 7, right-click on an empty area on your Desktop and choose `Next desktop background`
+From now on, you can switch desktop backgrounds with respect to the application you use. On Windows 7, right-click on an empty area on your Desktop and choose `Next desktop background`.
  
-If you are satisfied with what you get and never plan to make any modifications to the design of the backgrounds and any of the shortcuts, you can conserve some disk space by removing the templates. On Windows, execute in Command Prompt:
+If you are satisfied with what you get and never plan to make any modifications to the design and content of the background images, you can conserve some disk space by removing the templates. On Windows, execute in Command Prompt:
 
 1. Switch to the location of the keyboard shortcuts repo:
 
@@ -146,11 +146,11 @@ git rm -r templates
 git commit -am "Removed the templates dir, not planning to make any customizations"
 ```
 
-In this way the templates will never re-appear in the keyboard-shortcuts directory when you make subsequent upgrades and merges. This action is reversible whenever you choose to.
+In this way the templates will never re-appear in the installation directory whether you make subsequent upgrades or merges. This action is reversible however, whenever you choose to.
 
 #Upgrade
 
-You can upgrade your local copy of the keyboard shortcuts repo with the last changes in the remote pretty easily. On Windows you can accomplish that by executing the following two statements in Command Prompt:
+You can upgrade your local copy of the project with the last changes in the remote repository pretty easily. On Windows 7 execute in Command Prompt:
 
 1. Switch to the folder where you have installed your local copy:
 
@@ -172,65 +172,65 @@ Start -> Control Panel -> Personalization -> Desktop Background
 
 #Modify
 
-Modifying these desktop backgrounds is pretty straightforward.
+Modifying the desktop backgrounds provided by the project is pretty straightforward.
 
-1. Use Adobe Photoshop templates to generate raster background images with the exact size of your desktop.
+1. Use the Adobe Photoshop templates to generate raster background images with the exact size of your full desktop.
 
   Keep in mind that to achieve the effect intended by this project, the images should be of low contrast and desaturated. Whether they are bright or dark is to your liking but ensuring low contrast is important.
 
-2. Export the background image from Photoshop as an intermediary .png
+2. Export the background images from Photoshop as an intermediary `.png`
 
-3. Open the Adobe Illustrator template
+3. Open the Adobe Illustrator template and link externaly the new intermediary `.png` images you exported from Photoshop
 
-4. Link the new intermediary .png image you exported from Photoshop externally
+4. Make the changes you need to the shortcuts content or their layout
 
-5. Make the changes you need to the shortcuts content and their layout
+5. Export the so composited layers as `.png` images into the project's `backgrounds` directory
 
-5. Export the so composited image into the backgrounds directory
+6. Delete the intermediary `.png` images you exported from Photoshop
 
-6. Delete the intermediary .png image you exported from Photoshop
+7. As above, ensure the new background images are available to your desktop theme
 
-7. As above, ensure the new background image is available to your desktop theme
+Do not forget to store the changes you made to the project files into the local repository. In this way you can switch back and forth between modifications, protect against accidental file loss, recover errors, etc. On Windows, execute in Command Prompt:
 
-Do not forget to store these changes you made into the local repository. In this way you can switch back and forth between modifications, protect against accidental file loss, recover errors, etc. Execute in Command Prompt:
-
-1. Switch to the location of the keyboard shortcuts repo:
+1. Switch to the location where you have installed the keyboard shortcuts repo:
 
 ```
 cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-2. Commit the changes, adding a relevant descriptive comment:
+2. Commit the changes you have made, adding a relevant descriptive comment, e.g.:
 
 ```
-git commit -am "Created a background shortcut image for my other application"
+git commit -am "Created a new background image for my other application"
 ```
 
-If you would like to incorporate in your modifications the updates coming from the original repository (see the Upgrade section), please keep in mind that the vector and raster content distributed with this project is in binary format. There is no version control system yet capable to assist you in merging changes in binary content from different sources. Therefore, when receiving updates you should keep both copies - your version of the binary file and the new version coming upstream. Open them side-by-side in Photoshop or Illustrator, and attempt to transfer any modifications to your version manually.
+If, at this point and onwards you would like to incorporate in your local modifications also updates coming from the original repository (see the Upgrade section), please keep in mind that the vector and raster templates distributed with this project are in binary format. There is no version control system yet capable to assist you in merging changes in such content.
+
+When receiving updates therefore, you should keep both copies - your version of the template file and the new version coming from upstream. Open them side-by-side in Photoshop or Illustrator, and attempt to transfer any modifications to your version manually.
 
 For more information on binary merges, see the free on-line book about version control with Git: http://git-scm.com/book
 
 #Contribute
 
-If you would like to share your modifications to the project or new keyboard shortcuts with the world, you need to complete few steps, similar to the ones outlined in the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
+If you would like to share the corrections or additions you have made to the project with the world, you need to complete few steps, similar to the ones outlined in the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
 
 #Uninstall
 
-Uninstalling the keyboard shortcut desktop images is pretty straightforward.
+You can uninstall the keyboard shortcuts project by following few steps. On Windows 7:
 
-1. Ensure the desktop images are not used in your desktop theme, or you use a different theme completely by navigating to:
+1. Ensure that there are no desktop images provided by the project who are currently in use by your desktop theme, or switch to a different theme completely by navigating to:
 
 ```
   Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
-2. Remove the keyboard shortcuts project from your hard drive. Execute in Command Prompt:
+2. Remove the keyboard shortcuts project from your hard drive by executing in Command Prompt:
 
 ```
 rmdir /s %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-Please note that with this operation you will irrecoverably delete all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable you to keep a backup of your work, e.g. by sharing it in on-line.
+Please note that with this operation you will **irrecoverably delete** all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable to keep a backup copy of your work elsewhere, e.g. by sharing it in on-line.
 
 #Legal notices
 
