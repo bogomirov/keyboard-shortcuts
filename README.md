@@ -31,7 +31,7 @@ The software packages and environments you use nowadays however, are huge. Toget
 
 When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and eventually you under-perform.
 
-**The images provided here intend to get you back in track, today.**
+**The images provided here intend to get you back on track, today.**
 
 Your desktop background is always in your field of vision, regardless whether you work, relax with your favorite game or your attention is away. As a plain image however, your desktop background serves a little purpose. What could you possibly do to utilize that huge empty area on your desktop better?
 
@@ -103,14 +103,14 @@ To take maximum advantage of this project, you will need the following software 
 
 To install this project on your system, follow these steps:
 
-1. Grab a copy of the project repository and place it in an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
+1) Grab a copy of the project repository and place it in an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
 
 ```
 git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
 %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-2. Enable any or all of the desktop backgrounds. On Windows 7 navigate to:
+2) Enable any or all of the desktop backgrounds. On Windows 7 navigate to:
 
 ```
 Start -> Control Panel -> Personalization -> Desktop Background
@@ -122,11 +122,11 @@ and browse to the folder where are the background images, as installed above:
 C:\users\<your-user-name>\AppData\Local\keyboard-shortcuts\backgrounds
 ```
 
-3. Select any or all of the desktop backgrounds and adjust the timing of their appearance to your liking.
+3) Select any or all of the desktop backgrounds and adjust the timing of their appearance to your liking.
 
-4. Press `Save changes`
+4) Press `Save changes`
 
-5. Optionally, save the desktop theme under a new name.
+5) Optionally, save the desktop theme under a new name.
 
 From now on, you can switch desktop backgrounds with respect to the application you use. On Windows 7, right-click on an empty area on your Desktop and choose `Next desktop background`.
  
