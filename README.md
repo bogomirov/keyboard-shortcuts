@@ -51,7 +51,7 @@ The images provided here have been prepared with the intention to serve multiple
 
   * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. To circumvent this limitation, each of the images provided here refers to a single application environment, and you can switch between them when needed.
   
-  * Use your precious time more efficiently. No need to sift through manuals or search the Internet to find how to invoke a specific function. You already have the information you need in front of your eyes, all the time. Just move away the window obstructing the relevant part of your desktop background, or press a single keystroke to minimize them all (Win+D on Windows).
+  * Use your precious time more efficiently. No need to sift through manuals or search the Internet to find how to invoke a specific function. You already have the information you need in front of your eyes, all the time. Just move away the window obstructing the relevant part of your desktop background, or press a single keystroke to minimize them all (Win+D on Windows&reg;).
   
   * While trying to incorporate as much information as possible, the design of the images attempts also to elegantly reduce clutter, so you can find what you are looking for on your desktop background, easy.
   
@@ -63,9 +63,9 @@ The images provided here have been prepared with the intention to serve multiple
 
 In summary, instead of being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
-![Screenshot of a Windows 7 desktop having a background image containing the keyboard shortcuts of Eclipse PDT (left half) and Windows Active Desktop (right half)](screenshot.png)
+![Screenshot of a Windows&reg; 7 desktop with background image containing the keyboard shortcuts of Eclipse PDT (left half) and Windows&reg; Aero&reg; desktop (right half)](screenshot.png)
 
-Screenshot of a Windows 7 desktop having a background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows Active Desktop (right half).
+Screenshot of a Windows&reg; 7 desktop having a background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows&reg; Aero&reg; desktop(right half).
 
 To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible, and this project has such an ambition neither.
 
@@ -85,9 +85,9 @@ The set-up covered by this example project has the following characteristics:
 
   * [Eclipse IDE with PHP Development Tools](backgrounds/eclipse-pdt.png)
 
-  * [Microsoft OneNote](backgrounds/onenote.png)
+  * [OneNote&reg;](backgrounds/onenote.png)
 
-  * [Microsoft Windows Active Desktop](backgrounds/active-desktop.png)
+  * [Aero&reg; Desktop](backgrounds/aero-desktop.png)
 
 The templates included can be used to correct and supplement the shortcuts you need, or incorporate background imagery that appeals to you best.
 
@@ -103,14 +103,14 @@ To take maximum advantage of this project, you will need the following software 
 
 To install this project on your system, follow these steps:
 
-1) Grab a copy of the project repository and place it in an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
+1) Grab a copy of the project repository and place it in an appropriate local folder. On Windows&reg; 7 for example, execute in Command Prompt:
 
 ```
   git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
   %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-2) Enable any or all of the desktop backgrounds. On Windows 7 navigate to:
+2) Enable any or all of the desktop backgrounds. On Windows&reg; 7 navigate to:
 
 ```
   Start -> Control Panel -> Personalization -> Desktop Background
@@ -128,9 +128,9 @@ and browse to the folder where are the background images, as installed above:
 
 5) Optionally, save the desktop theme under a new name.
 
-From now on, you can switch desktop backgrounds with respect to the application you use. On Windows 7, right-click on an empty area on your Desktop and choose `Next desktop background`.
+From now on, you can switch desktop backgrounds with respect to the application you use. On Windows&reg; 7, right-click on an empty area on your desktop and choose `Next desktop background`.
  
-If you are satisfied with what you get and never plan to make any modifications to the design and content of the background images, you can conserve some disk space by removing the templates. On Windows, execute in Command Prompt:
+If you are satisfied with what you get and never plan to make any modifications to the design and content of the background images, you can conserve some disk space by removing the templates. Execute in Command Prompt:
 
 1) Switch to the location of the keyboard shortcuts repo:
 
@@ -154,7 +154,7 @@ In this way the templates will never re-appear in the installation directory whe
 
 #Upgrade
 
-You can upgrade your local copy of the project with the last changes in the remote repository pretty easily. On Windows 7 execute in Command Prompt:
+You can upgrade your local copy of the project with the last changes in the remote repository pretty easily. On Windows&reg; 7 execute in Command Prompt:
 
 1) Switch to the folder where you have installed your local copy:
 
@@ -220,7 +220,7 @@ If you would like to share the corrections or additions you have made to the pro
 
 #Uninstall
 
-You can uninstall the keyboard shortcuts project by following few steps. On Windows 7:
+You can uninstall the keyboard shortcuts project by following few steps. On Windows&reg; 7:
 
 1) Ensure that there are no desktop images provided by the project who are currently in use by your desktop theme, or switch to a different theme completely by navigating to:
 
