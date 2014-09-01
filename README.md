@@ -63,9 +63,9 @@ The images provided here have been prepared with the intention to serve multiple
 
 In summary, instead of being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
-![Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of Eclipse PDT (left half) and Windows&reg; Aero&reg; desktop (right half)](screenshot.png)
+![Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of Eclipse PDT (left half) and Aero&reg; desktop (right half)](screenshot.png)
 
-Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows&reg; Aero&reg; desktop(right half).
+Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Aero&reg; desktop(right half).
 
 To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible, and this project has such an ambition neither.
 
@@ -83,7 +83,7 @@ The set-up covered by this example project has the following characteristics:
   
   * [Blender](backgrounds/blender.png)
 
-  * [Eclipse IDE with PHP Development Tools](backgrounds/eclipse-pdt.png)
+  * [Eclipse&trade; IDE with PHP Development Tools](backgrounds/eclipse-pdt.png)
   
   * [Microsoft&reg; OneNote&reg;](backgrounds/onenote.png)
   
@@ -95,7 +95,7 @@ The templates included can be used to correct and supplement the shortcuts you n
 
 To take maximum advantage of this project, you will need the following software installed:
 
-* Git core client, in order to manage your local copy of the project files:  http://git-scm.com/downloads
+* Git&trade; core client, in order to manage your local copy of the project files:  http://git-scm.com/downloads
 
 * Illustrator and Photoshop, in order to use the provided templates
 
@@ -243,6 +243,10 @@ All raster imagery used and included in this project is believed to be in the "p
 "Keyboard Shortcuts on your Desktop" is an independent project and is not affiliated with, nor has it been authorized, sponsored, or otherwise approved by Microsoft Corporation.
 
 Adobe, After Effects, Illustrator and Photoshop are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+
+Eclipse is a trademark of Eclipse Foundation, Inc.
+
+Git is a trademark of Software Freedom Conservancy, Inc.
 
 Microsoft, Aero, OneNote and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
 
