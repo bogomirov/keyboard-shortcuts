@@ -29,7 +29,7 @@ The software packages and environments you use nowadays however, are huge. Toget
 
 **The only problem is if you could remember how.**
 
-When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and as a result, you under-perform.
+When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and eventually you under-perform.
 
 **The images provided here intend to get you back in track, today.**
 
@@ -37,33 +37,42 @@ Your desktop background is always in your field of vision, regardless whether yo
 
 The images provided here have been prepared with the intention to serve multiple purposes and strike balance on multiple conflicting criteria:
 
-* Stay focused on your task
+* Stay focused on your task with this enhanced 2.5D arrangement of your desktop.
 
-  * The background images provided here are with reduced contrast and desaturated, so they do not distract you from the applications you use, but still clearly separate from the rest. They also provide an illusion of depth. Low detail, smooth gradient. Used to cut-off everything above.
-
-  * The keyboard shortcuts are designed to unobtrusively "fly" in the middle. They are on a semi-transparent bases, so they blend with the background without compromising it. They are also crisp, but with reduced brightness, so they are easily distinguishable from your applications, but without unnecessarily attracting your attention.
+  * The panoramic background images provided here have been desaturated and with reduced contrast, so they do not attract your attention. The predominant low details and smooth gradients together with the feeling of depth they induce, effectively separate these images from everything above them.
   
-  * The applications you use, with their aggressive colors and widgets practically stand out over the shortcuts and the background, providing you with an illusion of depth. You can visually switch between the three layers in a split-second.
+  * The applications you use, with their aggressive colors and widgets practically stand out on top of everything, thus effectively fixing your attention on completing your task.
+  
+  * By being placed on semi-transparent desaturated bases on the one hand, the keyboard shortcuts blend with the panoramic background without compromising the view. On the other hand the crisp, bright monochromatic text clearly distinguishes them from your applications. In this way the keyboard shortcuts unobtrusively "fly" in the middle, still being unnecessarily distracting.
+  
+  In overall, the clear distinction between panoramic view, shortcuts and applications not only attempts to keep you focused on your task, but to allow you visually switch between layers in a split-second.
 
-* Stay organized and quickly find what you need
+* Find quickly what you need by relying on a more consistent planar layout.
 
-  * Contrary to most user manuals, the emphasis here is on functions and not keyboard shortcuts. In this way you just need to locate in the hierarchical tree the task you seek to accomplish and not explicitly memorize keyboard shortcuts.
+  * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the background image relevant to the application environment you use at the moment.
+  
+  * All desktop background images provided here have coherent design. The layout attempts elegantly to fit as much information on it as possible, while separating application shortcuts, desktop environment shortcuts, icons and desktop widgets. In this way you can find your way through the overloaded with information desktop background quick.
+  
+  * Instead of spending precious time sifting through manuals or searching the Internet on how to invoke a specific function, just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
+  
+  * Contrary to most user manuals, the emphasis here is on functions and not keyboard shortcuts. In this way you just need to locate in the hierarchical tree the task you seek to accomplish and not explicitly memorize keyboard shortcuts. They are separated on functional groups either sorted alphabetically, or mirroring the layout of the widgets of the application environment.
 
-  * The layout attempts elegantly to fit as much information on it as possible, while separating application shortcuts, desktop environment shortcuts, icons and desktop widgets. In this way you can find your way through the overloaded with information desktop background quick.
 
-  * No need to spend precious time sifting through manuals or searching on the Internet anymore, in order to find how to invoke a specific function. The information you need is in front of your eyes, all the time. Just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
 
-  * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the desktop background relevant to the application you use at the moment.
 
-* Learn on the go. While visually scrolling on the tree seeking the functionality you need, or just having a part of the desktop in your in your peripheral vision, you implicitly realize how to accomplish many other similar tasks.
+* Learn on the go, by having all the essential information you need in front of your eyes, all the time.
 
-* Attribute to a calm environment. The images provided here have been chosen such that to provide a relaxing effect, so you make less errors and perform better.
+  While visually scrolling on the tree seeking the functionality you need, or just having a part of the desktop in your in your peripheral vision, you can implicitly realize how to accomplish many other similar tasks.
+
+* Attributing to a calm environment.
+
+  The images provided here have been chosen such that to provide a relaxing effect, so you make less errors and perform better.
 
 In short, instead being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
-![Screenshot of an Windows 7 desktop with a background image containing the keyboard shortcuts of Eclipse PDT on left and Windows Active Desktop on right](screenshot.png)
+![Screenshot of a Windows 7 desktop having a background image containing the keyboard shortcuts of Eclipse PDT (left half) and Windows Active Desktop (right half)](screenshot.png)
 
-Screenshot of an Windows 7 desktop with a background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows Active Desktop (right half).
+Screenshot of a Windows 7 desktop having a background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows Active Desktop (right half).
 
 To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible. Neither this project has such an ambition. For the time being, the images provided here:
 
@@ -85,7 +94,7 @@ To create desktop backgrounds encompassing all display resolutions, multi-monito
 
   * [Microsoft Windows Active Desktop](backgrounds/active-desktop.png)
 
-You can use the templates provided with the project to correct and supplement the shortcuts you need, or include background imagery that appeals to you best.
+You can use the templates provided to correct and supplement the shortcuts you need, or include background imagery that appeals to you best.
 
 #Prerequisites
 
