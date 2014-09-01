@@ -106,20 +106,20 @@ To install this project on your system, follow these steps:
 1) Grab a copy of the project repository and place it in an appropriate local folder. On Windows 7 for example, execute in Command Prompt:
 
 ```
-git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
-%USERPROFILE%\AppData\Local\keyboard-shortcuts
+  git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
+  %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
 2) Enable any or all of the desktop backgrounds. On Windows 7 navigate to:
 
 ```
-Start -> Control Panel -> Personalization -> Desktop Background
+  Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
 and browse to the folder where are the background images, as installed above:
 
 ```
-C:\users\<your-user-name>\AppData\Local\keyboard-shortcuts\backgrounds
+  C:\users\<your-user-name>\AppData\Local\keyboard-shortcuts\backgrounds
 ```
 
 3) Select any or all of the desktop backgrounds and adjust the timing of their appearance to your liking.
@@ -132,22 +132,22 @@ From now on, you can switch desktop backgrounds with respect to the application 
  
 If you are satisfied with what you get and never plan to make any modifications to the design and content of the background images, you can conserve some disk space by removing the templates. On Windows, execute in Command Prompt:
 
-1. Switch to the location of the keyboard shortcuts repo:
+1) Switch to the location of the keyboard shortcuts repo:
 
 ```
-cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-2. Remove the templates from your working tree and index:
+2) Remove the templates from your working tree and index:
 
 ```
-git rm -r templates
+  git rm -r templates
 ```
 
-3. Commit the changes to your local repo:
+3) Commit the changes to your local repo:
 
 ```
-git commit -am "Removed the templates dir, not planning to make any customizations"
+  git commit -am "Removed the templates dir, not planning to make any customizations"
 ```
 
 In this way the templates will never re-appear in the installation directory whether you make subsequent upgrades or merges. This action is reversible however, whenever you choose to.
@@ -156,22 +156,22 @@ In this way the templates will never re-appear in the installation directory whe
 
 You can upgrade your local copy of the project with the last changes in the remote repository pretty easily. On Windows 7 execute in Command Prompt:
 
-1. Switch to the folder where you have installed your local copy:
+1) Switch to the folder where you have installed your local copy:
 
 ```
-cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-2. Pull the latest changes:
+2) Pull the latest changes:
 
 ```
-git pull origin master
+  git pull origin master
 ```
 
-3. Verify that the backgrounds you like are still available to your theme by navigating to:
+3) Verify that the backgrounds you like are still available to your theme by navigating to:
 
 ```
-Start -> Control Panel -> Personalization -> Desktop Background
+  Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
 #Modify
@@ -196,16 +196,16 @@ Modifying the desktop backgrounds provided by the project is pretty straightforw
 
 Do not forget to store the changes you made to the project files into the local repository. In this way you can switch back and forth between modifications, protect against accidental file loss, recover errors, etc. On Windows, execute in Command Prompt:
 
-1. Switch to the location where you have installed the keyboard shortcuts repo:
+1) Switch to the location where you have installed the keyboard shortcuts repo:
 
 ```
-cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
-2. Commit the changes you have made, adding a relevant descriptive comment, e.g.:
+2) Commit the changes you have made, adding a relevant descriptive comment, e.g.:
 
 ```
-git commit -am "Created a new background image for my other application"
+  git commit -am "Created a new background image for my other application"
 ```
 
 If, at this point and onwards you would like to incorporate in your local modifications also updates coming from the original repository (see the Upgrade section), please keep in mind that the vector and raster templates distributed with this project are in binary format. There is no version control system yet capable to assist you in merging changes in such content.
@@ -222,16 +222,16 @@ If you would like to share the corrections or additions you have made to the pro
 
 You can uninstall the keyboard shortcuts project by following few steps. On Windows 7:
 
-1. Ensure that there are no desktop images provided by the project who are currently in use by your desktop theme, or switch to a different theme completely by navigating to:
+1) Ensure that there are no desktop images provided by the project who are currently in use by your desktop theme, or switch to a different theme completely by navigating to:
 
 ```
   Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
-2. Remove the keyboard shortcuts project from your hard drive by executing in Command Prompt:
+2) Remove the keyboard shortcuts project from your hard drive by executing in Command Prompt:
 
 ```
-rmdir /s %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  rmdir /s %USERPROFILE%\AppData\Local\keyboard-shortcuts
 ```
 
 Please note that with this operation you will **irrecoverably delete** all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable to keep a backup copy of your work elsewhere, e.g. by sharing it in on-line.
