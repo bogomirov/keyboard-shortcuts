@@ -53,7 +53,7 @@ The images provided here have been prepared with the intention to serve multiple
 
   * No need to spend precious time sifting through manuals or searching on the Internet anymore, in order to find how to invoke a specific function. The information you need is in front of your eyes, all the time. Just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
 
-  * It is practically impossible to fit all shortcuts of all applications on a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the desktop background relevant to the application you use at the moment.
+  * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the desktop background relevant to the application you use at the moment.
 
 * Learn on the go. While visually scrolling on the tree seeking the functionality you need, or just having a part of the desktop in your in your peripheral vision, you implicitly realize how to accomplish many other similar tasks.
 
@@ -63,7 +63,7 @@ In short, instead being just a plain image of dubious value, your professional d
 
 ![Screenshot of an Windows 7 desktop with a background image containing the keyboard shortcuts of Eclipse PDT on left and Windows Active Desktop on right](screenshot.png)
 
-Screenshot of an Windows 7 desktop with a background image containing the keyboard shortcuts of both Eclipse PDT (on left) and Windows Active Desktop (on right).
+Screenshot of an Windows 7 desktop with a background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows Active Desktop (right half).
 
 To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible. Neither this project has such an ambition. For the time being, the images provided here:
 
