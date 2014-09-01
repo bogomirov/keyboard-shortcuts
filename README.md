@@ -63,9 +63,9 @@ The images provided here have been prepared with the intention to serve multiple
 
 In summary, instead of being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
-![Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of Eclipse PDT (left half) and Aero&reg; desktop (right half)](screenshot.png)
+![Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of Eclipse&trade; PDT (left half) and Aero&reg; desktop (right half)](screenshot.png)
 
-Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Aero&reg; desktop(right half).
+Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of both Eclipse&trade; PDT (left half) and Aero&reg; desktop(right half).
 
 To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible, and this project has such an ambition neither.
 
@@ -81,7 +81,7 @@ The set-up covered by this example project has the following characteristics:
 
   * [Adobe&reg; Photoshop&reg;](backgrounds/photoshop.png)
   
-  * [Blender](backgrounds/blender.png)
+  * [Blender&trade;](backgrounds/blender.png)
 
   * [Eclipse&trade; IDE with PHP Development Tools](backgrounds/eclipse-pdt.png)
   
@@ -240,15 +240,17 @@ Please note that with this operation you will **irrecoverably delete** all the f
 
 All raster imagery used and included in this project is believed to be in the "public domain" and of unknown to the author origin. The author does not intend to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any of the raster images used in this project, and you do not want it distributed, or if you require a suitable credit, then please contact the author of this project to immediately do whatever is needed either for the image to be removed or provide credit where it is due. Please note that all the content of this project is provided free of charge and therefore the author does not gain any financial benefit from its distribution.
 
-"Keyboard Shortcuts on your Desktop" is an independent project and is not affiliated with, nor has it been authorized, sponsored, or otherwise approved by Microsoft Corporation.
-
 Adobe, After Effects, Illustrator and Photoshop are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
+
+Blender is a trademark of Stichting Blender Foundation.
 
 Eclipse is a trademark of Eclipse Foundation, Inc.
 
 Git is a trademark of Software Freedom Conservancy, Inc.
 
 Microsoft, Aero, OneNote and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
+
+"Keyboard Shortcuts on your Desktop" is an independent project and is not affiliated with, nor has it been authorized, sponsored, or otherwise approved by Microsoft Corporation.
 
 Copyright on the project concept, layout design, vector artwork, image processing and composition &copy; 2014, Bogomir Bogomirov.
 
