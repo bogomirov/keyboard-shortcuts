@@ -27,7 +27,7 @@ As a software, internet or digital media professional, your time is of essence. 
 
 The software packages and environments you use nowadays however, are huge. Together with their extensions they provide you with multiple ways to accomplish almost anything in your field.
 
-**The only problem is if you could remember how.**
+**The only problem is however, if you could remember how.**
 
 When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and eventually you under-perform.
 
@@ -39,46 +39,41 @@ The images provided here have been prepared with the intention to serve multiple
 
 * Stay focused on your task with this enhanced 2.5D arrangement of your desktop.
 
-  * The panoramic background images provided here have been desaturated and with reduced contrast, so they do not attract your attention. The predominant low details and smooth gradients together with the feeling of depth they induce, effectively separate these images from everything above them.
+  * The panoramic background images provided here are desaturated and with reduced contrast, so they take your attention away as little as possible. The predominant low details and smooth gradients together with the visual depth effectively separate these images from everything above.
   
-  * The applications you use, with their aggressive colors and widgets practically stand out on top of everything, thus effectively fixing your attention on completing your task.
+  * On contrary, the applications you use, with their aggressive colors and widgets practically stand out on top of everything. They effectively fix your attention on themselves and on completing your task.
   
-  * By being placed on semi-transparent desaturated bases on the one hand, the keyboard shortcuts blend with the panoramic background without compromising the view. On the other hand the crisp, bright monochromatic text clearly distinguishes them from your applications. In this way the keyboard shortcuts unobtrusively "fly" in the middle, still being unnecessarily distracting.
+  * By being placed on semi-transparent desaturated bases on the one hand, the keyboard shortcuts blend with the panoramic background without compromising the view. On the other hand the crisp, bright monochromatic text is clearly distinguishable from your applications. In this way the keyboard shortcuts unobtrusively "fly" in the middle.
   
-  In overall, the clear distinction between panoramic view, shortcuts and applications not only attempts to keep you focused on your task, but to allow you visually switch between layers in a split-second.
+  In overall, the clear distinction between panoramic view in the back, shortcuts in the middle and applications in front on the one hand tries to keep you focused on your task, and on the other to allow you to visually switch between layers in a split-second.
 
-* Find quickly what you need by relying on a more consistent planar layout.
+* Find quickly what you need by relying on a more effective planar layout.
 
-  * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. If you place the shortcuts for the different applications on separate images, you could switch to the background image relevant to the application environment you use at the moment.
+  * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. To circumvent this limitation, each of the images provided here refers to a single application environment, and you can switch between them when needed.
   
-  * All desktop background images provided here have coherent design. The layout attempts elegantly to fit as much information on it as possible, while separating application shortcuts, desktop environment shortcuts, icons and desktop widgets. In this way you can find your way through the overloaded with information desktop background quick.
+  * Use your precious time more efficiently. No need to sift through manuals or search the Internet to find how to invoke a specific function. You already have the information you need in front of your eyes, all the time. Just move away the window obstructing the relevant part of your desktop background, or press a single keystroke to minimize them all (Win+D on Windows).
   
-  * Instead of spending precious time sifting through manuals or searching the Internet on how to invoke a specific function, just move the window obstructing the view away, or press a single keystroke to minimize them all (Win+D on Windows).
+  * While trying to incorporate as much information as possible, the design of the images attempts also to elegantly reduce clutter, so you can find what you are looking for on your desktop background, easy.
   
-  * Contrary to most user manuals, the emphasis here is on functions and not keyboard shortcuts. In this way you just need to locate in the hierarchical tree the task you seek to accomplish and not explicitly memorize keyboard shortcuts. They are separated on functional groups either sorted alphabetically, or mirroring the layout of the widgets of the application environment.
+  * Contrary to most user manuals, the emphasis here is on the functions your specific application environment exposes, rather than on keyboard shortcuts. The various functions are further arranged by similarity on task-related logical groups, or attempt to mirror the layout of the widgets of your application environment, so you could find what you need faster.
 
+* Learn on the go. Due to the similarity-based arrangement of the various functions, while visually scrolling through your desktop background seeking the information you need, you can implicitly realize how to accomplish many other similar tasks.
 
+* Promoting a peaceful, calm but creative environment. Regardless its subjectivity, moods and emotions can be rather important topics in establishing an environment that attributes to less errors and higher performance. And that was another reason for selecting panoramic background images like the ones included here.
 
-
-* Learn on the go, by having all the essential information you need in front of your eyes, all the time.
-
-  While visually scrolling on the tree seeking the functionality you need, or just having a part of the desktop in your in your peripheral vision, you can implicitly realize how to accomplish many other similar tasks.
-
-* Attributing to a calm environment.
-
-  The images provided here have been chosen such that to provide a relaxing effect, so you make less errors and perform better.
-
-In short, instead being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
+In summary, instead of being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
 
 ![Screenshot of a Windows 7 desktop having a background image containing the keyboard shortcuts of Eclipse PDT (left half) and Windows Active Desktop (right half)](screenshot.png)
 
 Screenshot of a Windows 7 desktop having a background image containing the keyboard shortcuts of both Eclipse PDT (left half) and Windows Active Desktop (right half).
 
-To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible. Neither this project has such an ambition. For the time being, the images provided here:
+To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible, and this project has such an ambition neither.
 
-* Support horizontal, linear dual 1080p (3840x1080 px) monitor set-up
+The set-up covered by this example project has the following characteristics:
 
-* Provide keyboard shortcuts for the following applications and environments:
+* Horizontal, linear dual 1080p (3840x1080 px) monitor layout
+
+* Desktop background images covering the major keyboard shortcuts for the following applications and environments:
 
   * [Adebe After Effects](backgrounds/after-effects.png)
 
@@ -94,7 +89,7 @@ To create desktop backgrounds encompassing all display resolutions, multi-monito
 
   * [Microsoft Windows Active Desktop](backgrounds/active-desktop.png)
 
-You can use the templates provided to correct and supplement the shortcuts you need, or include background imagery that appeals to you best.
+The templates included can be used to correct and supplement the shortcuts you need, or incorporate background imagery that appeals to you best.
 
 #Prerequisites
 
@@ -243,7 +238,7 @@ Please note that with this operation you will **irrecoverably delete** all the f
 
 #Legal notices
 
-All raster imagery used in and distributed through this project is believed to be in the "public domain" and of unknown to the author origin. The author does not intend to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any of the raster images used in this project, and you do not want it distributed, or if you require a suitable credit, then please contact the author of this project to immediately do whatever is needed either for the image to be removed or provide credit where it is due. Please note that all the content of this project is provided free of charge and therefore the author does not gain any financial benefit from its distribution.
+All raster imagery used and included in this project is believed to be in the "public domain" and of unknown to the author origin. The author does not intend to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any of the raster images used in this project, and you do not want it distributed, or if you require a suitable credit, then please contact the author of this project to immediately do whatever is needed either for the image to be removed or provide credit where it is due. Please note that all the content of this project is provided free of charge and therefore the author does not gain any financial benefit from its distribution.
 
 Copyright on the project concept, layout design, vector artwork, image processing and composition &copy; 2014, Bogomir Bogomirov.
 
