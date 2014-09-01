@@ -75,19 +75,19 @@ The set-up covered by this example project has the following characteristics:
 
 * Desktop background images covering the major keyboard shortcuts for the following applications and environments:
 
-  * [Adebe After Effects](backgrounds/after-effects.png)
+  * [Adobe&reg; After Effects&reg;](backgrounds/after-effects.png)
 
-  * [Adobe Illustrator](backgrounds/illustrator.png)
+  * [Adobe&reg; Illustrator&reg;](backgrounds/illustrator.png)
 
-  * [Adobe Photoshop](backgrounds/photoshop.png)
-
+  * [Adobe&reg; Photoshop&reg;](backgrounds/photoshop.png)
+  
   * [Blender](backgrounds/blender.png)
 
   * [Eclipse IDE with PHP Development Tools](backgrounds/eclipse-pdt.png)
-
-  * [OneNote&reg;](backgrounds/onenote.png)
-
-  * Windows&reg; 7 Aero&reg; desktop
+  
+  * [Microsoft&reg; OneNote&reg;](backgrounds/onenote.png)
+  
+  * Microsoft&reg; Windows&reg; 7 Aero&reg; desktop
 
 The templates included can be used to correct and supplement the shortcuts you need, or incorporate background imagery that appeals to you best.
 
@@ -97,7 +97,7 @@ To take maximum advantage of this project, you will need the following software 
 
 * Git core client, in order to manage your local copy of the project files:  http://git-scm.com/downloads
 
-* Adobe Illustrator and Adobe Photoshop, in order to use the provided templates
+* Illustrator and Photoshop, in order to use the provided templates
 
 #Install
 
@@ -178,13 +178,13 @@ You can upgrade your local copy of the project with the last changes in the remo
 
 Modifying the desktop backgrounds provided by the project is pretty straightforward.
 
-1. Use the Adobe Photoshop templates to generate raster background images with the exact size of your full desktop.
+1. Use the Photoshop templates to generate raster background images with the exact size of your full desktop.
 
   Keep in mind that to achieve the effect intended by this project, the images should be of low contrast and desaturated. Whether they are bright or dark is to your liking but ensuring low contrast is important.
 
 2. Export the background images from Photoshop as an intermediary `.png`
 
-3. Open the Adobe Illustrator template and link externaly the new intermediary `.png` images you exported from Photoshop
+3. Open the Illustrator template and link externaly the new intermediary `.png` images you exported from Photoshop
 
 4. Make the changes you need to the shortcuts content or their layout
 
@@ -241,6 +241,8 @@ Please note that with this operation you will **irrecoverably delete** all the f
 All raster imagery used and included in this project is believed to be in the "public domain" and of unknown to the author origin. The author does not intend to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any of the raster images used in this project, and you do not want it distributed, or if you require a suitable credit, then please contact the author of this project to immediately do whatever is needed either for the image to be removed or provide credit where it is due. Please note that all the content of this project is provided free of charge and therefore the author does not gain any financial benefit from its distribution.
 
 "Keyboard Shortcuts on your Desktop" is an independent project and is not affiliated with, nor has it been authorized, sponsored, or otherwise approved by Microsoft Corporation.
+
+Adobe, After Effects, Illustrator and Photoshop are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
 
 Microsoft, Aero, OneNote and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries.
 
