@@ -87,7 +87,7 @@ The set-up covered by this example project has the following characteristics:
 
   * [OneNote&reg;](backgrounds/onenote.png)
 
-  * [Aero&reg; Desktop](backgrounds/aero-desktop.png)
+  * Windows&reg; Aero&reg;
 
 The templates included can be used to correct and supplement the shortcuts you need, or incorporate background imagery that appeals to you best.
 
