@@ -1,7 +1,7 @@
 Keyboard Shortcuts on your Desktop
 ==========================
 
-Get faster, more precise or find alternative ways to accomplish your tasks. Transform your professional and under-utilized desktop background into an asset, essential to your digital production workflow.
+Go faster, be more precise or quickly find alternative ways to accomplish your tasks. Transform your professional and under-utilized desktop background into an asset, essential to your digital production workflow.
 
 #Table of contents
 
@@ -23,53 +23,51 @@ Get faster, more precise or find alternative ways to accomplish your tasks. Tran
 
 #Introduction
 
-As a software, internet or digital media professional, your time is of essence. You need to be quick and precise in accomplishing your tasks. That is why in your daily operations you heavily rely on your keyboard.
+As a software, internet or digital media professional, your time is of essence. You need to be quick and precise in accomplishing your tasks. That is why in your daily operations you rely heavily on your keyboard.
 
-The software packages and environments you use nowadays however, are huge. Together with their extensions they provide you with multiple ways to accomplish almost anything in your field.
+The software packages and environments you use nowadays however, are huge. Together with their extensions, they provide you with multiple ways to accomplish almost anything in your field.
 
-**The only problem is however, if you could remember how.**
+**The only problem is, if you could remember how.**
 
-When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing - it doesn't always play by the rules you may expect. So you stick to the basics, start making errors, and eventually you under-perform.
+When under pressure, gunning for that deadline, you have no time to dwell into manuals, learn new features, let search for keyboard shortcuts. You just blindly run, relying on what you know by heart. But human memory is a tricky thing. It does not always play by the rules you may expect. As a result you stick to the basics, start making errors, and ultimately slip away from your performance targets.
 
 **The images provided here intend to get you back on track, today.**
 
-Your desktop background is always in your field of vision, regardless whether you work, relax with your favorite game or your attention is away. As a plain image however, your desktop background serves a little purpose. What could you possibly do to utilize that huge empty area on your desktop better?
+Your computer desktop is almost always in your field of vision, regardless whether you work, relax with your favorite game or have your attention away. As a plain image however, its background serves a little purpose. What could you possibly do to utilize that huge empty area on your desktop better?
 
-The images provided here have been prepared with the intention to serve multiple purposes and strike balance on multiple conflicting criteria:
+The images provided here have been prepared with the intention to serve multiple purposes and strike balance on various conflicting criteria:
 
-* Stay focused on your task with this enhanced 2.5D arrangement of your desktop.
+* To keep you focused on your task and provide you with extra tools, but without compromising the pleasant view in the back.
 
-  * The panoramic background images provided here are desaturated and with reduced contrast, so they take your attention away as little as possible. The predominant low details and smooth gradients together with the visual depth effectively separate these images from everything above.
-  
-  * On contrary, the applications you use, with their aggressive colors and widgets practically stand out on top of everything. They effectively fix your attention on themselves and on completing your task.
-  
-  * By being placed on semi-transparent desaturated bases on the one hand, the keyboard shortcuts blend with the panoramic background without compromising the view. On the other hand the crisp, bright monochromatic text is clearly distinguishable from your applications. In this way the keyboard shortcuts unobtrusively "fly" in the middle.
-  
-  In overall, the clear distinction between panoramic view in the back, shortcuts in the middle and applications in front on the one hand tries to keep you focused on your task, and on the other to allow you to visually switch between layers in a split-second.
+  * The panoramic background images provided here are desaturated and further have lowered contrast, so your attention gets distracted as little as possible. Their predominantly low details and visual depth effectively separate these images from everything above them.
 
-* Find quickly what you need by relying on a more effective planar layout.
+  * On contrary, the applications you use, with their aggressive colors and widgets practically stand out on top of everything. They effectively fix your attention on completing your task.
 
-  * It is practically impossible to fit all shortcuts of all applications on the limited space of a single desktop background. To circumvent this limitation, each of the images provided here refers to a single application environment, and you can switch between them when needed.
-  
-  * Use your precious time more efficiently. No need to sift through manuals or search the Internet to find how to invoke a specific function. You already have the information you need in front of your eyes, all the time. Just move away the window obstructing the relevant part of your desktop background, or press a single keystroke to minimize them all (Win+D on Windows&reg;).
-  
-  * While trying to incorporate as much information as possible, the design of the images attempts also to elegantly reduce clutter, so you can find what you are looking for on your desktop background, easy.
-  
-  * Contrary to most user manuals, the emphasis here is on the functions your specific application environment exposes, rather than on keyboard shortcuts. The various functions are further arranged by similarity on task-related logical groups, or attempt to mirror the layout of the widgets of your application environment, so you could find what you need faster.
+  * By being placed on semi-transparent and desaturated bases on the one hand, the keyboard shortcuts blend with the panoramic background without compromising the view. On the other hand the crisp monochromatic text is clearly distinguishable from the applications you use. In this way the keyboard shortcuts unobtrusively "fly" in the middle.
 
-* Learn on the go. Due to the similarity-based arrangement of the various functions, while visually scrolling through your desktop background seeking the information you need, you can implicitly realize how to accomplish many other similar tasks.
+  In overall, the clear distinction between panoramic view in the back, shortcuts in between and applications in front, tries to keep you focused on your task. On the other hand, you can visually switch between these three layers in a split-second.
 
-* Promoting a peaceful, calm but creative environment. Regardless its subjectivity, moods and emotions can be rather important topics in establishing an environment that attributes to less errors and higher performance. And that was another reason for selecting panoramic background images like the ones included here.
+* To enable you to find quickly what you need, so you can accomplish your task better.
 
-In summary, instead of being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform better under pressure.
+  * It is practically impossible to fit all shortcuts of all possible applications on the limited space of a single desktop background. To circumvent this limitation, each of the images provided here refers to a single application environment. In this way you can switch the background images when needed.
+
+  * While incorporating as much information as possible, the desktop shortcuts attempt to allocate the available space without hampering your visual comfort.
+
+  * Use your precious time more efficiently. No need to sift through manuals or dig the Internet in order to find how to invoke a specific function. You already have the information you need in front of your eyes, all the time. Just move the window obstructing the relevant part of your desktop away, or press a single keystroke to minimize them all (Win+D on Windows&reg;).
+
+  * Contrary to most user manuals, the emphasis here is on the functions your environment exposes, rather than on keyboard shortcuts. The various functions are further arranged by similarity on task-related groups, or attempt to mirror the layout of the widgets your application exposes. In this way you could find what you need quick.
+
+* Promote learning on the go. As a side effect of how the various functions are arranged, while visually scrolling through your desktop background seeking the information you need, you can immediately realize how to accomplish many other similar tasks.
+
+* Promote peaceful, calm but creative environment. Although being of subjective nature, moods and emotions can be rather important topics in establishing an environment that attributes to less errors and higher performance. Issues like these have been essential in the selection of the panoramic background images for this project.
+
+In summary, instead of being just a plain image of dubious value, your professional desktop background can provide you with the speed, accuracy and cognitive offload you need in order to perform under pressure better.
 
 ![Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of Eclipse&trade; PDT (left half) and Aero&reg; desktop (right half)](screenshot.png)
 
-Screenshot of a Windows&reg; 7 Aero&reg; desktop with background image containing the keyboard shortcuts of both Eclipse&trade; PDT (left half) and Aero&reg; desktop(right half).
+Screenshot of a Windows&reg; 7 desktop with background image containing the keyboard shortcuts of both Eclipse&trade; PDT (left half) and Aero&reg; desktop (right half).
 
-To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application shortcuts and personal tastes is practically impossible, and this project has such an ambition neither.
-
-The set-up covered by this example project has the following characteristics:
+To create desktop backgrounds encompassing all display resolutions, multi-monitor layouts, application environments and personal tastes is practically impossible. That is why this project has been limited to cover a reference set-up with the following characteristics:
 
 * Horizontal, linear dual 1080p (3840x1080 px) monitor layout
 
@@ -80,16 +78,16 @@ The set-up covered by this example project has the following characteristics:
   * [Adobe&reg; Illustrator&reg;](backgrounds/illustrator.png)
 
   * [Adobe&reg; Photoshop&reg;](backgrounds/photoshop.png)
-  
+
   * [Blender&trade;](backgrounds/blender.png)
 
   * [Eclipse&trade; IDE with PHP Development Tools](backgrounds/eclipse-pdt.png)
-  
+
   * [Microsoft&reg; OneNote&reg;](backgrounds/onenote.png)
-  
+
   * Microsoft&reg; Windows&reg; 7 Aero&reg; desktop
 
-The templates included can be used to correct and supplement the shortcuts you need, or incorporate background imagery that appeals to you best.
+The templates provided can be used to correct and supplement the shortcuts you need, or incorporate raster background imagery that appeals to you best.
 
 #Prerequisites
 
@@ -101,25 +99,25 @@ To take maximum advantage of this project, you will need the following software 
 
 #Install
 
-To install this project on your system, follow these steps:
+To install this project on Windows&reg; 7 for example, follow these steps:
 
-1) Grab a copy of the project repository and place it in an appropriate local folder. On Windows&reg; 7 for example, execute in Command Prompt:
+1) Grab a copy of the project repository and place it in an appropriate local folder. Execute in Command Prompt:
 
 ```
   git clone https://github.com/bogomirov/keyboard-shortcuts.git ^
-  %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  %USERPROFILE%\keyboard-shortcuts
 ```
 
-2) Enable any or all of the desktop backgrounds. On Windows&reg; 7 navigate to:
+2) Enable any or all of the desktop backgrounds. Navigate to:
 
 ```
   Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
-and browse to the folder where are the background images, as installed above:
+and browse to the folder where the background images have been installed. In our example that would be:
 
 ```
-  C:\users\<your-user-name>\AppData\Local\keyboard-shortcuts\backgrounds
+  C:\users\<your-user-name>\keyboard-shortcuts\backgrounds
 ```
 
 3) Select any or all of the desktop backgrounds and adjust the timing of their appearance to your liking.
@@ -128,14 +126,14 @@ and browse to the folder where are the background images, as installed above:
 
 5) Optionally, save the desktop theme under a new name.
 
-From now on, you can switch desktop backgrounds with respect to the application you use. On Windows&reg; 7, right-click on an empty area on your desktop and choose `Next desktop background`.
- 
-If you are satisfied with what you get and never plan to make any modifications to the design and content of the background images, you can conserve some disk space by removing the templates. Execute in Command Prompt:
+From now on, you can switch desktop backgrounds with respect to the application you use. Right-click on an empty area on your desktop and choose `Next desktop background`.
+
+If you are satisfied with the background images as they are provided by this project and never plan to make any modifications, you can conserve some disk space by removing the templates. Execute in Command Prompt:
 
 1) Switch to the location of the keyboard shortcuts repo:
 
 ```
-  cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  cd %USERPROFILE%\keyboard-shortcuts
 ```
 
 2) Remove the templates from your working tree and index:
@@ -150,16 +148,16 @@ If you are satisfied with what you get and never plan to make any modifications 
   git commit -am "Removed the templates dir, not planning to make any customizations"
 ```
 
-In this way the templates will never re-appear in the installation directory whether you make subsequent upgrades or merges. This action is reversible however, whenever you choose to.
+In this way the templates will never re-appear inside the installation directory whether you make subsequent upgrades or merges. This action is reversible however, whenever you choose to.
 
 #Upgrade
 
-You can upgrade your local copy of the project with the last changes in the remote repository pretty easily. On Windows&reg; 7 execute in Command Prompt:
+You can upgrade your local copy of the project with the last changes in the remote repository pretty easily. On Windows&reg; 7 for example, execute in Command Prompt:
 
 1) Switch to the folder where you have installed your local copy:
 
 ```
-  cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  cd %USERPROFILE%\keyboard-shortcuts
 ```
 
 2) Pull the latest changes:
@@ -180,9 +178,9 @@ Modifying the desktop backgrounds provided by the project is pretty straightforw
 
 1. Use the Photoshop templates to generate raster background images with the exact size of your full desktop.
 
-  Keep in mind that to achieve the effect intended by this project, the images should be of low contrast and desaturated. Whether they are bright or dark is to your liking but ensuring low contrast is important.
+  Keep in mind that to achieve the effect intended by this project, the images should be of low contrast and subsequently desaturated. Whether they are predominantly bright or dark is to your liking but ensuring low contrast is important.
 
-2. Export the background images from Photoshop as an intermediary `.png`
+2. Export the background images from Photoshop as an intermediary `.png` in the 'templates' directory
 
 3. Open the Illustrator template and link externaly the new intermediary `.png` images you exported from Photoshop
 
@@ -192,14 +190,14 @@ Modifying the desktop backgrounds provided by the project is pretty straightforw
 
 6. Delete the intermediary `.png` images you exported from Photoshop
 
-7. As above, ensure the new background images are available to your desktop theme
+7. As noted previously, ensure the new background images are available to your desktop theme
 
-Do not forget to store the changes you made to the project files into the local repository. In this way you can switch back and forth between modifications, protect against accidental file loss, recover errors, etc. On Windows, execute in Command Prompt:
+Do not forget to store the changes you made to the project files in your local Git repository. In this way you can switch back and forth between modifications, protect against accidental file loss, recover from errors, etc. Execute in Command Prompt:
 
 1) Switch to the location where you have installed the keyboard shortcuts repo:
 
 ```
-  cd %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  cd %USERPROFILE%\keyboard-shortcuts
 ```
 
 2) Commit the changes you have made, adding a relevant descriptive comment, e.g.:
@@ -208,21 +206,31 @@ Do not forget to store the changes you made to the project files into the local 
   git commit -am "Created a new background image for my other application"
 ```
 
-If, at this point and onwards you would like to incorporate in your local modifications also updates coming from the original repository (see the Upgrade section), please keep in mind that the vector and raster templates distributed with this project are in binary format. There is no version control system yet capable to assist you in merging changes in such content.
+If, at this point and onwards you would like to incorporate in your local modifications also updates coming from the original repository (see the Upgrade section), please keep in mind that the Illustrator and Photoshop templates distributed with this project are binary files of proprietary format. So far, the safest way to merge changes in such content is the manual one:
 
-When receiving updates therefore, you should keep both copies - your version of the template file and the new version coming from upstream. Open them side-by-side in Photoshop or Illustrator, and attempt to transfer any modifications to your version manually.
+1. When receiving updates to a template file, request to perform a manual merge. This will keep both copies - the version of the file modified by you, as well as the new version coming from upstream, both in the directory of the project.
+
+2. Open both files side-by-side in Photoshop or Illustrator
+
+3. Attempt to transfer any modifications to your version manually and save the file
+
+4. Export the images from Photoshop or Illustrator as previously explained
+
+5. Mark the conflicts as resolved
+
+6. Commit the changes to your repository
 
 For more information on binary merges, see the free on-line book about version control with Git: http://git-scm.com/book
 
 #Contribute
 
-If you would like to share the corrections or additions you have made to the project with the world, you need to complete few steps, similar to the ones outlined in the Bluebird Glx-Dock Theme project: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
+If you would like to share the corrections or additions you have made to the project with the world, you need to complete few steps, similar to the ones outlined in the Bluebird Glx-Dock Theme: https://github.com/bogomirov/glx-dock-bluebird-theme#contribute
 
 #Uninstall
 
 You can uninstall the keyboard shortcuts project by following few steps. On Windows&reg; 7:
 
-1) Ensure that there are no desktop images provided by the project who are currently in use by your desktop theme, or switch to a different theme completely by navigating to:
+1) Ensure that there are no desktop images provided by the project who are currently in use by your desktop theme, or switch to a different theme completely. Navigate to:
 
 ```
   Start -> Control Panel -> Personalization -> Desktop Background
@@ -231,14 +239,14 @@ You can uninstall the keyboard shortcuts project by following few steps. On Wind
 2) Remove the keyboard shortcuts project from your hard drive by executing in Command Prompt:
 
 ```
-  rmdir /s %USERPROFILE%\AppData\Local\keyboard-shortcuts
+  rmdir /s %USERPROFILE%\keyboard-shortcuts
 ```
 
-Please note that with this operation you will **irrecoverably delete** all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable to keep a backup copy of your work elsewhere, e.g. by sharing it in on-line.
+Please note that this operation will **irrecoverably delete** all the files associated with the project, together with the history of their modifications. Therefore, if you have made any modifications to the project by yourself, it is advisable to keep a backup copy of your work elsewhere, e.g. by sharing it in on-line.
 
 #Legal notices
 
-All raster imagery used and included in this project is believed to be in the "public domain" and of unknown to the author origin. The author does not intend to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any of the raster images used in this project, and you do not want it distributed, or if you require a suitable credit, then please contact the author of this project to immediately do whatever is needed either for the image to be removed or provide credit where it is due. Please note that all the content of this project is provided free of charge and therefore the author does not gain any financial benefit from its distribution.
+All raster imagery used in this project is believed to be in the "public domain" and of unknown to the author origin. The author does not intend to infringe any legitimate intellectual right, artistic rights or copyright. If you are the rightful owner of any of the raster images used in this project, and you do not want it distributed, or if you require a suitable credit, then please contact the author of this project to immediately do whatever is needed either for the image to be removed or provide credit where it is due. Please note that all the content of this project is provided free of charge and therefore the author does not gain any financial benefit from its distribution.
 
 Adobe, After Effects, Illustrator and Photoshop are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.
 
@@ -252,7 +260,7 @@ Microsoft, Aero, OneNote and Windows are either registered trademarks or tradema
 
 "Keyboard Shortcuts on your Desktop" is an independent project and is not affiliated with, nor has it been authorized, sponsored, or otherwise approved by Microsoft Corporation.
 
-Copyright on the project concept, layout design, vector artwork, image processing and composition &copy; 2014, Bogomir Bogomirov.
+Copyright on the project concept, layout design, vector artwork, raster background image processing and composition &copy; 2014, Bogomir Bogomirov.
 
 This project is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
