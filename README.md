@@ -114,7 +114,7 @@ To install this project on Windows&reg; 7 for example, follow these steps:
   Start -> Control Panel -> Personalization -> Desktop Background
 ```
 
-    and browse to the folder where the background images have been installed. In our example that would be:
+  and browse to the folder where the background images have been installed. In our example that would be:
 
 ```
   C:\users\<your-user-name>\keyboard-shortcuts\backgrounds
